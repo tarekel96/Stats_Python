@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+notebook
+numpy
+pandas
+seaborn
+python-dotenv
+numpy
+pandas
+matplotlib
+scikit-learn
